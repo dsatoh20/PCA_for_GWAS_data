@@ -1,6 +1,7 @@
 # PCA_for_GWAS_data
 # Features
-- PCA for GWAS data not by scikit-learn, but just by numpy.
+- PCA for GWAS data
+- できるだけnumpy以外のライブラリを使わないで実装してみる
 # Installation
 - numpy
 - pandas
